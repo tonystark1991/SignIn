@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+.div1{
+	width: 760px;
+	height: 600px;
+	text-align: left;
+    }
+   .div2{
+	width: 120px;
+	height: 120px;
+	float: left;
+	margin-top: 42px;
+	padding-left: 20px;
+    }
+    .div2 ul li{
+	margin-bottom: 17px;
+	list-style-type: none;
+    }
+.div3{
+	margin-top: 30px;
+	width: 450px;
+	float: right;
+	height:200px;
+	margin-right:60px;
+	text-align: center;
+    }
